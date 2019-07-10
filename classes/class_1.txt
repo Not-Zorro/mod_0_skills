@@ -1,0 +1,17 @@
+Class: School
+
+# Attributes
+
+num_of_students(integer)
+num_of_classrooms(integer)
+num_of_seats(integer)
+num_of_teachers(integer)
+school_name(string)
+
+
+# Methods
+
+calc_students_per_class(this divides all the num_of_students by num_of_classrooms to assign how many kids to each classroom)
+calc_teach_staff_needed(this uses num_of_teachers and num_of_classrooms and num_of_students to calculate how many teachers they need to suffice the students and classrooms)
+calc_chairs_needed(this will use the calc_students_per_class method to display the total amount of seats for a classroom)
+calc_lunch_periods(this will use the num_of_students and the buildings cafeteria capacity to figure out how many lunch periods are needed)

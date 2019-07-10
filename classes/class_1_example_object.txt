@@ -1,0 +1,16 @@
+Object: David's Middle School
+
+# Attributes
+
+num_of_students 512
+num_of_classrooms = 30
+num_of_seats = 576
+num_of_teachers = 46
+school_name = "David's Middle School"
+
+# Methods
+
+calc_students_per_class = (512 / 30) >> 18
+calc_teach_staff_needed = (46 / 30) >> 2
+calc_chairs_needed = calc_students_per_class >> 18
+calc_lunch_periods = (512 / 100) >> 6
