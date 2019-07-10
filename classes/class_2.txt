@@ -12,4 +12,4 @@ Class: Extra Curriculars
  change_room_name(this replaces text for the room_name)
  change_interior(this changes the type_of_room text to add different characteristics)
  change_purpose(this will change room_purpose to have a different goal to focus on)
- add_renovation(this will add onto square_footage for new parts of the gym)
+ add_renovation(this will add onto square_footage for new parts of the extra curricular room)
