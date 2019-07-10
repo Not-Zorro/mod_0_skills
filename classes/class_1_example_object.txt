@@ -1,4 +1,4 @@
-Object: David's Middle School
+Object: 5th Grade
 
 # Attributes
 
@@ -6,7 +6,6 @@ num_of_students 512
 num_of_classrooms = 30
 num_of_seats = 576
 num_of_teachers = 46
-school_name = "David's Middle School"
 
 # Methods
 

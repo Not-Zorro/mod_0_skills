@@ -1,4 +1,4 @@
-Class: School
+Class: Class_sizes
 
 # Attributes
 
@@ -6,7 +6,6 @@ num_of_students(integer)
 num_of_classrooms(integer)
 num_of_seats(integer)
 num_of_teachers(integer)
-school_name(string)
 
 
 # Methods

@@ -1,0 +1,15 @@
+Object: David's Elementary school
+
+# Attributes
+
+ square_footage = 118,500
+ type_of_room = ["Big", "Square", "Empty", "Carpet"]
+ room_name = "Gym"
+ room_purpose = "To entertain and energize kids"
+
+ # Methods
+
+ change_room_name = room_name.slice.push("Gymnasium") >> Gymnasium
+ change_interior = type_of_room.slice(4).push('Wood') >> ["Big", "Square", "Empty", "Wood"]
+ change_purpose = room_purpose.slice(2,3) >> "To energize kids"
+ add_renovation = (square_footage + 1500) >> 120,000
