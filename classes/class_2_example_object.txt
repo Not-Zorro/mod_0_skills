@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Object: Gymnasium
-=======
-Object: Gym
->>>>>>> 179b1ca700a4a7383fb1550d7cf8816a707c65a9
 
 # Attributes
 
