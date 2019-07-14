@@ -1,4 +1,4 @@
-Class: Extra Curriculars
+Class: Class_room
 
 # Attributes
 
