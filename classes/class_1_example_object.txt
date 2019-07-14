@@ -1,8 +1,8 @@
-Object: 5th Grade
+Object: Class_of_2020
 
 # Attributes
 
-num_of_students 512
+num_of_students = 512
 num_of_classrooms = 30
 num_of_seats = 576
 num_of_teachers = 46
