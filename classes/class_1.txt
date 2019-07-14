@@ -1,4 +1,4 @@
-Class: Class_sizes
+Class: Class_size
 
 # Attributes
 
